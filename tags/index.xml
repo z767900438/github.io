@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 精创云</title>
+    <link>https://z767900438.github.io/tags/</link>
+    <description>Recent content in Tags on 精创云</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2020 15:52:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://z767900438.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ceph</title>
+      <link>https://z767900438.github.io/tags/ceph/</link>
+      <pubDate>Mon, 24 Aug 2020 15:52:24 +0800</pubDate>
+      
+      <guid>https://z767900438.github.io/tags/ceph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>https://z767900438.github.io/tags/devops/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z767900438.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitops</title>
+      <link>https://z767900438.github.io/tags/gitops/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z767900438.github.io/tags/gitops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>helm</title>
+      <link>https://z767900438.github.io/tags/helm/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z767900438.github.io/tags/helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://z767900438.github.io/tags/k8s/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z767900438.github.io/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://z767900438.github.io/tags/kubernetes/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z767900438.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

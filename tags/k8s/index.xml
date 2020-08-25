@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k8s on 精创云</title>
+    <link>https://z767900438.github.io/tags/k8s/</link>
+    <description>Recent content in k8s on 精创云</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z767900438.github.io/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>kubeadm 安装K8S集群(基于calico网络安装)</title>
+      <link>https://z767900438.github.io/post/%E5%9F%BA%E4%BA%8Ecalico%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z767900438.github.io/post/%E5%9F%BA%E4%BA%8Ecalico%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/</guid>
+      <description>&lt;p&gt;之前安装的是使用flannel网络模式，kube-proxy使用的也是默认的iptables方式。这次选择新的模式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网络模式： Calico&lt;/li&gt;
+&lt;li&gt;kube-proxy模式： Ipvs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;安装方式和之前的安装方式相同，这里就不重复了。只对网络模式和kube-proxy模式进行区别安装。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
