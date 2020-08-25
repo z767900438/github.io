@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kubernetes on 精创云</title>
-    <link>https://jcyun.com/tags/kubernetes/</link>
+    <link>https://z767900438.github.io/tags/kubernetes/</link>
     <description>Recent content in kubernetes on 精创云</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jcyun.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://z767900438.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GitOps - 在 Kubernetes 中进行 DevOps 的方式</title>
-      <link>https://jcyun.com/post/gitops-devops-on-k8s/</link>
+      <link>https://z767900438.github.io/post/gitops-devops-on-k8s/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jcyun.com/post/gitops-devops-on-k8s/</guid>
+      <guid>https://z767900438.github.io/post/gitops-devops-on-k8s/</guid>
       <description>&lt;p&gt;从我们第一次听到持续交付这个词，到现在估计差不多有10年时间了吧。Humble Jez 和 Farley David 在2010年的时候，通过他们的新书《Continuous Delivery: Reliable Software Releases Through Build, Test and Deployment Automation》提出的。在过去10年中，持续交付改变了我们软件发布的方式。现在随着围绕 Kubernetes 生态系统不断演变出的一套新的工具，让我们在持续交付的旅程中实现了又一次飞跃。这些工具基本上都是围绕着 GitOps 这个概念展开的，本文将尝试来解释下 “GitOps” 的 Why? What? 以及 How?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>kubeadm 安装K8S集群(基于calico网络安装)</title>
-      <link>https://jcyun.com/post/%E5%9F%BA%E4%BA%8Ecalico%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/</link>
+      <link>https://z767900438.github.io/post/%E5%9F%BA%E4%BA%8Ecalico%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jcyun.com/post/%E5%9F%BA%E4%BA%8Ecalico%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/</guid>
+      <guid>https://z767900438.github.io/post/%E5%9F%BA%E4%BA%8Ecalico%E7%BD%91%E7%BB%9C%E5%AE%89%E8%A3%85/</guid>
       <description>&lt;p&gt;之前安装的是使用flannel网络模式，kube-proxy使用的也是默认的iptables方式。这次选择新的模式：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;网络模式： Calico&lt;/li&gt;
